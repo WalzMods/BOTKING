@@ -67,8 +67,8 @@ global.author = sticker_author
 const cpack = fs.readFileSync("lib/colong.json")
 const ctickerpack = JSON.parse(cpack)
 if (ctickerpack.cpackname == '') {
-  var colong_name = 'BOTKINGDOM'
-  var colong_author = ' 📸\n\n@botkingdom'
+  var colong_name = 'IkhwalGanteng'
+  var colong_author = ' 🗿\n\n@WalzMods'
  } else {
   var colong_name = ctickerpack.cpackname
   var colong_author = ctickerpack.cauthor
@@ -89,24 +89,24 @@ global.wm = 'supuna.ml'
 global.ucpn = ''
 
 //================= Url =================//
-global.linkgc = 'https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV'
-global.linkig = 'https://www.instagram.com/hdcar.wallpapers/?hl=en'
-global.linkyt = 'https://youtu.be/5NG7sVcB0QQ'
-global.linkfb = 'https://fb.com'
-global.web = 'https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV'
-global.web1 = 'https://www.supuna.ml'
+global.linkgc = 'https://chat.whatsapp.com/Bj7F8olsau163nd0aCi4LB'
+global.linktt = 'https://www.tiktok.com/@ikhwal_rmdhn'
+global.linkyt = 'https://www.youtube.com/channel/UC29cQ2pULR6ECAlAQIPUlfg'
+global.linkfb = 'https://www.youtube.com/channel/UC29cQ2pULR6ECAlAQIPUlfg'
+global.web = 'https://chat.whatsapp.com/Bj7F8olsau163nd0aCi4LB'
+global.web1 = 'https://github.com/WalzMods/BOTKING'
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@supuna'
+global.bodlink = '@walz'
 
 //========= Url Template Button =========//
 global.dtu = 'Group Bot WhatsApp'
-global.urlnya = 'https://chat.whatsapp.com/CIDWlH7yzEsKombRDcTKcV'
+global.urlnya = 'https://chat.whatsapp.com/Bj7F8olsau163nd0aCi4LB'
 
 //========= Call Template Button =========//
 global.dtc = 'Add Me'
-global.nmbrnya = '+94 394-3957'
+global.nmbrnya = '+62 858-9910-9527'
 
 
 //============ Proses Bot ============//
